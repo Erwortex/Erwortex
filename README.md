@@ -1,6 +1,8 @@
+<!---
 <h1 align="center">
   <img src="" alt="Marton Lederer" />
 </h1>
+--->
 
 ## Hey! 👋
 I'm Eren, a 18 years old i make stealer, grabber and fud.

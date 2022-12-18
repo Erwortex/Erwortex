@@ -5,7 +5,7 @@
 --->
 
 ## Hey! 👋
-I'm Eren, a 18 years old i make stealer, grabber and fud.
+I'm Eren, a 16 years old i make stealer, grabber and fud.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, C#
@@ -14,7 +14,7 @@ I'm Eren, a 18 years old i make stealer, grabber and fud.
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [@carderwortex](https://www.instagram.com/carderwortex/) on Instagram
+- [@z.t_roxly210](https://www.instagram.com/z.t_roxly210/) on Instagram
 - [@carderwortex](https://twitter.com/Carderwortex) on Twitter
 - [Roxly#1337](./) on Discord
 <!---
